@@ -1,0 +1,35 @@
+---
+title: "Pre-Institute Biography"
+author: "Joe Brown"
+date: "10/24/2019"
+output: html_document
+---
+
+## Who am I?
+
+My name is Joe Brown, I am a PhD candidate in the Coastal Plant Eoclogy Lab at VCU. My primary research interests are in plant community ecology and trait-based ecology. My dissertation uses functional trait and species composition data on Virginia barrier islands to understand how species coexist in highly disturbed plant communities and how interactions will chnage as climate chnages. My goal of the course is to broaden my knowledge of using large collaborative data to answer macrosystem questions.
+
+***
+
+## Capstone Project
+
+I have had a recent interests in determining whether LiDAR and hypperspectral data can be used on coasts to identify dune grass species colonization. Some dune grasses are resistant to storm disturbance while others are prone to overwash at low storm energies. If possible it could help to predict how prone dune systems are to storm disturbance.
+
+##### Data I would liekly need...
+1. Hyperspectral data of coast areas.
+2. DEMs or data to create a DEM to estimate dune height.
+3. Survey/invetory data to compare with hyperspectral predictions of dominant species predictions.
+
+##### Challenges
+There are some areas that have multiple dune species present that build differt dune types. It may be hard to to hyperspec data and make confident predictions if coexistance on dunes is high.
+
+
+
+
+
+
+
+
+
+
+
